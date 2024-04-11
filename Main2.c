@@ -15,22 +15,6 @@ return 0;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #define SIZE 10
 
 int Arr[SIZE];
