@@ -24,6 +24,5 @@ int main()
     p = (int *)malloc(sizeof(int) * 3);
 
     printf("Jay Ganesh\n");
-
     return 0;
 }
