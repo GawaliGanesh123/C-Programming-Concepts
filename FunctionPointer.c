@@ -7,6 +7,7 @@ int Multiplication(int No1, int No2)
     return Ans;
 }
 
+
 int main()
 {
     // Local Variables
