@@ -19,6 +19,7 @@ int main()
 
     printf("%d\n",ptr->no);
     printf("%d\n",mobj.no);
+
     
     printf("%d\n",sizeof(mobj));      // 12
     
