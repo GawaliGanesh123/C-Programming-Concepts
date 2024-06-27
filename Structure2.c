@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-struct Marvellous
+struct Ganesh
 {
     int no;
     float f;
@@ -9,9 +9,9 @@ struct Marvellous
 
 int main()
 {
-    struct Marvellous mobj;
+    struct Ganesh gobj;
 
-    struct Marvellous *ptr = &mobj;
+    struct Ganesh *ptr = &mobj;
 
     ptr->no = 11;
     ptr->f = 90.99;
