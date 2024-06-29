@@ -27,9 +27,11 @@ int main()
     Pooja.Marks = 93.67;
     Pooja.Age = 17;
     Pooja.Salary = 5000;
+    
 
     printf("Age of Amit is : %d\n",Amit.Age);
     printf("Age of Pooja is : %d\n",Pooja.Age);
+    
     
     printf("Salary of Amit is : %d\n",Amit.Salary);
     printf("Salary of Pooja is : %d\n",Pooja.Salary);
