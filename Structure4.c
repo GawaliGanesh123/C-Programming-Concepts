@@ -17,4 +17,5 @@ int main()
     printf("Size of object is : %d\n",sizeof(Amit));
 
     return 0;
+    
 }
